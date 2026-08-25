@@ -16,7 +16,7 @@ Even if you have little knowledge about computers.
 
 # Develop together
 
-Email to 1@xksyu.cn if you want to join the development.
+Email to w@xksyu.cn if you want to join the development.
 
 Welcome pull requests to this project.
 
